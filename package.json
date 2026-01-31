@@ -1,0 +1,20 @@
+{
+  "name": "summer-chores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callbackVersion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myfithub12/summer-shores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myfithub12/summer-shores/issues"
+  },
+  "homepage": "https://github.com/Myfithub12/summer-shores#readme"
+}
